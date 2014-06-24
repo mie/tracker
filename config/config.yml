@@ -1,0 +1,18 @@
+# tracker settings
+
+compact: true
+allow_ip_override: false
+announce_interval: 1800
+min_interval: 60,
+default_peers: 50,
+scrape_interval: 10,
+max_peers: 50
+seedbonus:
+    enabled: true
+    per_hour: 1
+hit_and_runs:
+    enabled: true
+    max_count: 3
+# wait time in minutes
+wait_time: 0
+# general
